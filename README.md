@@ -3,6 +3,8 @@
 ## Overview
 EVQAScore is a reference-free evaluation metric designed to assess the quality of video question-answering (QA) data. By using keyword extraction, frame sampling, and rescaling techniques, it evaluates both video captions and QA data efficiently, even for long videos.
 
+![EVQAScore Example](evqascore/images/EVQAScore.png)
+
 ## Environment Setup
 Clone the repository and create the EVQA conda environment using the `environment.yml` file:
 
