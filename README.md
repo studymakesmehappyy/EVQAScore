@@ -9,6 +9,7 @@ Clone the repository and create the EVQA conda environment using the `environmen
 ```bash
 conda env create -f environment.yml
 conda activate evqa
+```
 
 ## Usage
 Follow these steps to run `evqascore-demo.py`:
